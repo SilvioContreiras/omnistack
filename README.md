@@ -1,8 +1,10 @@
 # AirCnC
 
 ## In this project I used these techs:
+
 ### NodeJS
- In backend folder
+ * In backend folder
 ### ReacJS
- In frontend folder
+ * In frontend folder
+ 
  ### React Native
