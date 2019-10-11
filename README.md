@@ -2,9 +2,9 @@
 
 ## In this project I used these techs:
 
-### NodeJS
+### * NodeJS
 
-### ReacJS
+### * ReacJS
  
- ### React Native
+### * React Native
  
