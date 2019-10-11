@@ -9,6 +9,6 @@ module.exports = {
         const name = path.basename(file.originalname, ext);
 
         cb(null, `${name}-${Date.now()}${ext}`);
-      } 
+      }, 
     }),
 };

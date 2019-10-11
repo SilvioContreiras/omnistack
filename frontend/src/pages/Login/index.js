@@ -4,7 +4,8 @@ import api from '../../services/api';
 //history é usado para fazer navegação 
 
 export default function Login({ history }) {
-    
+
+    // a veriável setEmail serve para atualizar o estado da variável email
     const [email, setEmail] = useState(''); 
 
     async function handleSubmit(event) {
