@@ -1,6 +1,6 @@
 # AirCnC
 
-## In this project I used these techs:
+ In this project I used these techs:
 
 ### * NodeJS
 
